@@ -1,5 +1,5 @@
 # Práctica de la sesión 12: consumo de API desde React
-
+##GRUPO DE Stacy Cerda, Rodrigo Paniagua y Fernando Gonzalez
 ## Qué contiene la entrega
 
 - `gestion-academica-web/`: la base del docente, completada con listado y detalle de estudiantes.
